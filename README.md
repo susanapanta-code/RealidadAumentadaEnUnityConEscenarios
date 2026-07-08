@@ -6,4 +6,25 @@ En este repositorio se puede encontrar todo el material necesario para probar el
 - `Proyecto de Unity`: Aquí está todo el proyecto como tal (comprimido en un zip) que se puede abrir en Unity . El link para descargarlo es el siguiente: https://drive.google.com/file/d/1888Kk9JKEib_J-WmRo8kp9n3tQr0XGUX/view?usp=drive_link
 - `webapp-code`: Aquí está el código fuente de las WebApps desarrolladas.
 - `csDronLink-code`: Aquí está el código fuente de la librería csDronLink.
+- `Consideraciones Previas`: Algunas cosas a tener en cuenta antes de probar el proyecto. 
 - `Links`: Aquí hay enlaces para acceder a el report donde hay información más detallada del desarrollo del proyecto y enlaces a vídeos con demostraciones de la aplicación final en uso.
+
+
+# Proyecto de Unity
+Al descargar y descomprimir el zip del enlace anterior, nos encontraremos 
+
+
+# WebApp
+Aquí es
+
+
+# csDronLink
+Aquí
+
+
+# Consideraciones Previas
+Aquí
+
+
+# Links
+Aquí
