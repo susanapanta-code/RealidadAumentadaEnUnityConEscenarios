@@ -53,7 +53,7 @@ Aquí está el código fuente de la librería csDronLink que se usó para genera
 - Instalar en Unity el paquete WebRTC 3.0.0-pre.5 si no lo estuviese.
 - Si al abrir el proyecto sale el error: CS0619: 'AndroidSdkVersions.AndroidApiLevel22' is obsolete: 'Minimum supported Android API level is 25', una forma rápida de solucionarlo sería ir a la ruta Library/PackageCache/com.unity.webrtc.../Editor/BuildProcessor.cs y sustituir AndroidApiLevel22 por AndroidApiLevel25.
 - Darle Play a Unity solo si se está en la escena OpenGameScene.
-- Si se quieren probar las WebApps en global, darle Run al archivo *servidorWebAppWebRTC.py* y abrir ngrok y ejecutar el comando *ngrok http 8106* (será necesario instalar ngrok y crear una cuenta) el cual dará la URL para acceder a la WebApp de Videostreaming desde otro dispositivo. Solo acceder a la URL, una vez la GameScene se haya abierto.
+- Si se quieren probar las WebApps en global, darle Run al archivo *servidorWebAppWebRTC.py* y abrir ngrok y ejecutar el comando *ngrok http 8106* (será necesario instalar ngrok y crear una cuenta) el cual dará la URL para acceder a la WebApp de Videostreaming desde otro dispositivo. Para acceder a la WebApp de Control habrá que usar la misma URL poniendo un */control* al final. Solo acceder a la URL, una vez la GameScene se haya abierto.
 - Mirar el Capítulo 9: TESTS de la memoria del TFG para saber qué pruebas hacer para verificar el correcto funcionamiento de la aplicación.
 
 
