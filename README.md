@@ -59,6 +59,6 @@ Aquí está el código fuente de la librería csDronLink que se usó para genera
 
 # Links
 - `TFG_AR-code.zip`: Se puede encontrar en el enlace https://drive.google.com/file/d/1888Kk9JKEib_J-WmRo8kp9n3tQr0XGUX/view?usp=drive_link
-- `memoria del TFG`: Donde está la información más detallada de cada parte del proyecto - 
+- `memoria del TFG`: Donde está la información más detallada de cada parte del proyecto - https://drive.google.com/file/d/1-2YDByxTGvYOLqZa_Xe1SZLV8xkoeA6X/view?usp=sharing
 - `Vídeo 1`: Demostración de una partida en un escenario de inicio a fin con el dron real volando en el DronLab - https://www.youtube.com/watch?v=c9I47gwHjm0
 - `Vídeo 2`: Demostración del resto de escenarios con el dron simulado, resaltando algunos detalles de las mecánicas de juego de estos y del funcionamiento de la aplicación que en el primer vídeo no se tocaron - https://www.youtube.com/watch?v=nIKDwmMLPFE
