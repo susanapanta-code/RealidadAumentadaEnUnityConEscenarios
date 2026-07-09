@@ -47,7 +47,7 @@ Aquí está el código fuente de la librería csDronLink que se usó para genera
 
 # Consideraciones Previas
 - Instalar Unity con el editor 6000.3.18f1.
-- Descargar y descomprir el proyecto de Unity TFG_AR-code.zip desde el link que está abajo en Links.
+- Descargar y descomprimir el proyecto de Unity TFG_AR-code.zip desde el link que está abajo en Links.
 - Abrir Unity Hub, darle a 'Add Project' y seleccionar el TFG_AR-code descargado.
 - Comprobar que estén todos los Assets descritos más arriba una vez se ha abierto el proyecto en Unity.
 - Instalar en Unity el paquete WebRTC 3.0.0-pre.5 si no lo estuviese.
