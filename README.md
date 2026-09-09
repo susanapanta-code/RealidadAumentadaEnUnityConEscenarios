@@ -4,6 +4,8 @@ Por otro lado, también se han desarrollado dos aplicaciones web:
 - WebApp de VideoStreaming: que permite visualizar el vídeo de recibido de la cámara del dron con los objetos virtuales superpuestos desde cualquier dispositivo con conexión a Internet.
 - WebApp de Control: Qué además de ver vídeo permite controlar el dron de forma remota. 
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/330c851d-418a-4b52-bc15-7ad0d060f978" />
+
 En este repositorio se puede encontrar todo el material necesario para probar el funcionamiento del proyecto y continuar con su desarrollo.
 - `Proyecto de Unity`: Aquí está todo el proyecto como tal (comprimido en un zip) que se puede abrir en Unity . El zip se llama TFG_AR-code.zip y el link para descargarlo se puede encontrar más abajo en la sección de Links. 
 - `webapp-code`: Aquí está el código fuente de las WebApps desarrolladas.
